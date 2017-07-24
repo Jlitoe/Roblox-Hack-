@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Kaushik Rajarathinam Roblox hacks
-// @version      0.2 Pre-Alpha
+// @version      3.1 Pre-Alpha
 // @description  BREAK ROBLOX!
 // @author       kaushik-rajarathinam
 // @match        https://www.roblox.com/*
@@ -49,12 +49,14 @@ if(window.localStorage.getItem("AwaitingFormat")){
 if(Name) {
     console.log();
 }else{
-    alert("Project CrackRBLX Loaded.");
-    alert("Project CrackRBLX made by Dubstep Gaming, Taking credit for Project CrackRBLX will result in a Copyright Claim to be issued. You've been warned.");
+    alert("Kaushik's Roblox Hack Loaded");
+    alert("This is created by Kaushik-Rajarathinam");
+    alert("He is also in rolbox @Kaushik_pro");
+    alert("Suscribe to Dubstep Gaming and the others.")
     var WantsName = window.prompt("Hello There! What would you like me to call you?");
     window.localStorage.setItem("UserNamePCRBLX", WantsName);
     Name = window.localStorage.getItem("UserNamePCRBLX");
-    alert("Hello, " + Name + ", Welcome to Project CrackRBLX!");
+    alert("Hello, " + Name + ", Welcome to Kaushik's Hack");
 }
  
 if(NumInv) {
